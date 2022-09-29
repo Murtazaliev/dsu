@@ -1,0 +1,107 @@
+﻿@page
+@model DguSite.Pages.NewsDetailModel
+@{
+    ViewData["isForeign"] = false;
+}
+    <div class="container">
+        <div class="row news-content" style="margin:225px 25px 0 25px; ">
+            <div class="col-7" style="max-height:360px; display:table;    background-image: linear-gradient(to right, rgb(217 217 217 / 0%), rgb(22 71 108));">
+
+                <div style="background-color:#16476c;display:table-caption;" class="p-2 text-white-50">
+                <strong>@Model.DataNewsDetail.DateAdd.ToString("dd.MM.yyyy")</strong>
+                </div>
+
+
+                <h1 class="text-uppercase" style="display: table-cell; vertical-align: middle;">@Html.Raw(Model.DataNewsDetail?.Title)</h1>
+
+            </div>
+            <div class="col-5" style="max-height:360px;background-color: #16476c;display:table; padding:0px 0;">
+            @if (Model.DataNewsDetail?.DataNewsSliders?.Count() > 0)
+            {
+                int index = 0;
+                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="max-height: 360px;display:table-row; vertical-align:central;">
+                    <div class="carousel-inner" style="display:table;">
+                        @foreach (var item in Model.DataNewsDetail.DataNewsSliders)
+                        {
+                                <div class="carousel-item @(index == 0 ? "active" : "")">
+                                    <img class="d-block w-100" src="@item.Image" alt="First slide" style="max-height: 360px;">
+                                </div>
+                            index++;
+                        }
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Пред</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">След</span>
+                    </a>
+                </div>
+            }
+            else
+            {
+                <img class="d-block w-100" src="@Model.DataNewsDetail.Avatar" style="max-height: 360px;">
+            }
+        </div>
+
+<div class="col-12 mt-2">
+            @Html.Raw(Model.DataNewsDetail?.Body)
+            @if (Model.Tags.Any())
+            {
+                <div>
+                    <span>Темы: </span>
+                    <ul class="card-tags">
+                        @foreach (var tag in Model.Tags)
+                        {
+                            <li class="card-tag">
+                                <a href="~/AllNews?pageNumber=1&nt=1&tag=@tag.Name" class="card-tag-link">
+                                    @tag.Name
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                </div> 
+             }
+            @*@if (Model.FamiliarNews.Any())
+            {
+                <div class="mt-3">
+                    <h3 class="text-uppercase d-block mb-3" style="display: table-cell; vertical-align: middle;">Похожие новости</h3>
+                    <div class="row">
+                        @foreach (var item in Model.FamiliarNews)                        
+                        {
+                            <div class="col-4">
+                                <img src="@item.Avatar" class="card-img-top" alt="...">
+                                <div class="card-body text-left news-main">
+                                    <p class="card-text news-main"><small class="text-muted">@item.DateAdd</small></p>
+                                    <a href="/NewsDetail?newsId=@item.Id">
+                                        <h5 class="card-title font-news text-darkblue text-uppercase">@item.Title</h5>
+                                        <div class="card-annotation font-news">@Html.Raw(@item.Annotation)</div>
+                                    </a>                                   
+                                </div>
+                                @if (item.Tags.Any())
+                                {
+                                    <div>
+                                        <span>Темы: </span>
+                                        <ul class="card-tags">
+                                            @foreach (var tag in item.Tags)
+                                            {
+                                                <li class="card-tag">
+                                                    <a href="#" class="card-tag-link">
+                                                        @tag.Name
+                                                    </a>
+                                                </li>
+                                            }
+                                        </ul>
+                                    </div>
+                                }
+                            </div>
+                        }
+                    </div>
+                </div>
+            }*@
+</div>
+
+
+   </div>
+    </div>

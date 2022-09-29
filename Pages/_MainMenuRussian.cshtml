@@ -1,0 +1,168 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<ul class="navbar-nav flex-grow-1">
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-white menu-link" asp-area="" data-hover="dropdown" data-delay="0" data-close-others="false" asp-page="/Index">Университет</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="http://www.dgu.ru/sveden/">Сведения об образовательной организации</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://www.dgu.ru/sveden/struct">Структура</a>
+                                        @*<a class="dropdown-item" href="http://science.dgu.ru/strategy.aspx">Программа развития ДГУ</a>*@
+
+                                        <div class="dropdown-item submenu">
+                                          <a class="dropdown-toggle" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Программа развития ДГУ
+                                          </a> 
+                                          <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink" >
+                                            <li><a class="dropdown-item" href="http://science.dgu.ru/strategy.aspx">Стратегическое развитие</a></li>
+                                            <li><a class="dropdown-item" href="http://science.dgu.ru/studorg.aspx">Развитие деятельности студенческих объединений</a></li>
+                                          </ul>
+                                        </div>
+
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=59">
+                                            Противодействие идеологии терроризма <br />
+                                            и экстремизма в студенческой среде
+                                        </a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=47">Противодействие коррупции</a>
+                                        <a class="dropdown-item" href="http://pog.dgu.ru/">Прием обращений граждан</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://xn--c1abriibei7ae.xn--p1ai/">Профсоюзный комитет</a>
+                                        <a class="dropdown-item" href="http://rcst.dgu.ru/">Ассоциация выпускников</a>
+                                        <a class="dropdown-item" href="http://www.dgu.ru/2014-04-22-07-08-31.html">Международные программы</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://www.dgu.ru/sveden/Otchet_o_samoobsledovanii">Отчет о самообследовании</a>
+                                        <a class="dropdown-item" href="http://ndoc.dgu.ru/PDFF/Gak_ot_24_04_2019.pdf">Свидетельство об аккредитации</a>
+                                        <a class="dropdown-item" href="http://ndoc.dgu.ru/PDFF/Licen_21_04_2016.pdf">Лицензия</a>
+                                        <a class="dropdown-item" href="http://ndoc.dgu.ru">Нормативно-правовые документы</a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=30">Развитие деятельности студенческих организаций</a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=33">Экономика и финансы</a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=34">Дополнительное образование и повышение квалификации</a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=35">Воспитательная работа</a>
+
+                                        <a class="dropdown-item" href="~/uploads/Prikaz_dgu1.pdf">Выборы ректора</a>
+                                    </div
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-white menu-link" asp-area="" data-hover="dropdown" data-delay="0" data-close-others="false" asp-page="/Index">Образование</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="http://www.dgu.ru/sveden/eduStandarts">Образовательные стандарты</a>
+                                        <a class="dropdown-item" href="http://www.dgu.ru/sveden/OOP_DGU">Образовательные программы</a>
+                                        <a class="dropdown-item" href="http://ios.dgu.ru/">Электронный университет</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://eor.dgu.ru/">Электронные образовательные ресурсы</a>
+                                        <a class="dropdown-item" href="http://edu.dgu.ru/login/index.php">Система обучения Moodle</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://elib.dgu.ru/">Научная библиотека</a>
+                                        <a class="dropdown-item" href="http://ct.dgu.ru/">Центр тестирования иностранных граждан</a>
+                                        <a class="dropdown-item" href="http://ed.dgu.ru/">Образование и инновации</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-white menu-link" asp-area="" data-hover="dropdown" data-delay="0" data-close-others="false" asp-page="/Index">Наука</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="http://science.dgu.ru/">Наука и инновации</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://science.dgu.ru/DivList.aspx?divlist=%D0%9D%D0%9E%D0%A6">Научно-образовательные центры </a>
+                                        <a class="dropdown-item" href="http://science.dgu.ru/DivList.aspx?divlist=%D0%9D%D0%98%D0%98">Научно-исследовательские институты</a>
+                                        <a class="dropdown-item" href="http://science.dgu.ru/DivList.aspx?divlist=%D0%9F%D0%9D%D0%98%D0%9B">Проблемные научные лаборатории</a>
+                                        <a class="dropdown-item" href="http://science.dgu.ru/DivList.aspx?divlist=%D0%91%D0%9A">Базовые кафедры</a>
+                                        <a class="dropdown-item" href="http://science.dgu.ru/DivList.aspx?divlist=%D0%9D%D0%B8%D0%98%D0%A6">Научные и инновационные центры</a>
+                                        <a class="dropdown-item" href="http://ckpac.dgu.ru/">ЦКП «Аналитическая спектроскопия»</a>
+                                        <a class="dropdown-item" href="http://elib.dgu.ru/">Научная библиотека</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://vestnik.dgu.ru/">Журнал Вестник ДГУ</a>
+                                        <a class="dropdown-item" href="http://islam.dgu.ru/">Журнал Исламоведение</a>
+                                        <a class="dropdown-item" href="http://jurvestnik.dgu.ru/">Журнал Юридический вестник</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://mik.dgu.ru/">Молодежный инновационный кластер</a>
+                                    </div>
+                                </li>
+                                
+                                <li class="nav-item">
+                                    <a class="nav-link text-white menu-link" href="~/AllNews?pageNumber=1&nt=1" >Новости</a>
+                                </li>
+
+                                 <li class="nav-item dropdown">
+                                    <a class="nav-link text-white menu-link" asp-area="" data-hover="dropdown" data-delay="0" data-close-others="false" asp-page="/Index">Структура</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="http://dgu.ru/sveden/employees">Ректорат</a>
+                                        @*<a class="dropdown-item">Факультеты(на доработке)</a>
+                                            <a class="dropdown-item">Филиалы(на доработке)</a>*@
+                                        <a class="dropdown-item" href="http://dgu.ru/sveden/struct">Факультеты и филиалы</a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=39">Ученый совет</a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=40">Учебно-методический совет</a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=49">Научно-методический совет</a>
+                                        <a class="dropdown-item" href="/InfoDetail?infoId=41">Совет по информатизации</a>
+                                        <a class="dropdown-item" href="http://ido.dgu.ru/">Институт дополнительного образования</a>
+                                        <a class="dropdown-item" href="http://itc.dgu.ru/">Инновационно-технологический центр</a>
+                                        <a class="dropdown-item" href="http://mik.dgu.ru/">Молодежный инновационный кластер</a>
+                                        <a class="dropdown-item" href="http://ckpac.dgu.ru/">Центр коллективного пользования</a>
+                                        <a class="dropdown-item" href="http://science.dgu.ru/DivList.aspx?divlist=%D0%9D%D0%9E%D0%A6">Научно-образовательные центры</a>
+                                        <a class="dropdown-item" href="http://uci.dgu.ru/">Интернет центр</a>
+                                        <a class="dropdown-item" href="http://science.dgu.ru/DivList.aspx?divlist=БК">Базовые кафедры</a>
+                                        <a class="dropdown-item" href="http://elib.dgu.ru/">Научная библиотека</a>
+                                        <a class="dropdown-item" href="http://sot.dgu.ru/">Центр современных образовательных технологий имени С.М. Омарова</a>
+                                        <!--<p><span style="font-size: 12pt;"><a class="dropdown-item" href="http://psy-factor.com/">Психологический центр "PSY-FACTOR"</a> -->
+                                                                            @*<a class="dropdown-item">Виварий(на доработке)</a>*@
+                                        <a class="dropdown-item" href="http://planet.dgu.ru/">Планетарий</a>
+                                        <a class="dropdown-item" href="#">Исторический музей</a>
+                                        <a class="dropdown-item" href="http://biomuseum.dgu.ru/">Зоологический музей</a>
+                                        @*<a class="dropdown-item">Межфакультетские кафедры (на доработке)</a>*@
+                                    </div>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-white menu-link" asp-area="" data-hover="dropdown" data-delay="0" data-close-others="false" asp-page="/Index">Обучающимся</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="http://ed.dgu.ru/timetable.aspx?id=1">Расписание занятий</a>
+                                        <a class="dropdown-item" href="https://www.isu.icc.dgu.ru/studstat/login.aspx?cookieCheck=true">Электронный деканат</a>
+                                        <a class="dropdown-item" href="http://ts.icc.dgu.ru/StudentLogin.aspx?ReturnUrl=%2fdefault.aspx">Сетевое тестирование</a>
+                                        <a class="dropdown-item" href="http://portfolio.dgu.ru/">Портфолио студента</a>
+                                        <a class="dropdown-item" href="http://anketa.dgu.ru/">Преподаватель глазами студента</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://edu.dgu.ru/login/index.php">Система обучения Moodle</a>
+                                        <a class="dropdown-item" href="http://eor.dgu.ru/">Электронные образовательные ресурсы</a>
+                                        <a class="dropdown-item" href="http://elib.dgu.ru/">Научная библиотека</a>
+                                        <a class="dropdown-item" href="https://www.isu.icc.dgu.ru/feedback">Обратная связь</a>
+
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-white menu-link" asp-area="" data-hover="dropdown" data-delay="0" data-close-others="false" asp-page="/Index">Сотрудникам</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="http://sca.dgu.ru/">Сотрудники</a>
+                                        <a class="dropdown-item" href="http://rate.dgu.ru/">Рейтинг преподавателя</a>
+                                        <a class="dropdown-item" href="http://eor.dgu.ru/">Электронные образовательные ресурсы</a>
+                                        <a class="dropdown-item" href="http://edu.dgu.ru/login/index.php">Система обучения Moodle</a>
+                                        <a class="dropdown-item" href="http://ios.dgu.ru/Election.aspx">Сроки избрания</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://ios.dgu.ru/">Система Электронный университет</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-white menu-link" asp-area="" data-hover="dropdown" data-delay="0" data-close-others="false" asp-page="/Index">Поступающим</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="http://www.dgu.ru/Abitur/">Прием @DateTime.Now.Year.ToString()</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://www.dgu.ru/Abitur/?id=15250">Бакалавриат и специалитет</a>
+                                        <a class="dropdown-item" href="http://www.dgu.ru/Abitur/?id=15251">Магистратура</a>
+                                        <a class="dropdown-item" href="http://www.dgu.ru/Abitur/?id=15252">Среднее проф. образование</a>
+                                        <a class="dropdown-item" href="http://science.dgu.ru/PagesAsper.aspx?id=1">Аспирантура и докторантура</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="http://dgu.ru/sveden/2372">Общежития</a>
+                                        <a class="dropdown-item" href="http://dgu.ru/sveden/Content/files/Zdaniya_for_study_process_2017.pdf">Корпуса</a>
+                                        <a class="dropdown-item" href="#">Дни открытых дверей</a>
+                                        <a class="dropdown-item" href="#">Подготовительные курсы</a>
+                                    </div>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link text-white menu-link" href="/InfoDetail?infoId=36">Контакты</a>
+                                </li>
+                                @* <partial name="_LoginPartial" />*@
+                            </ul>

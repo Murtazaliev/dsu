@@ -1,0 +1,432 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+.dropdown-item:hover ! important {
+    background-color: #383d41;
+}
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+/*Стили сайта
+
+*/
+.text-darkblue {
+    color: #142c59 !important;
+}
+
+a.text-darkblue:hover, a.text-darkblue:focus {
+    color: #22468b !important;
+}
+
+.menu-link {
+    font-weight: 700;
+}
+
+@media (min-width: 1300px) {
+    .container {
+        max-width: 1400px;
+    }
+}
+
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    margin-top: 0px;
+}
+/*
+    Рекламная панель
+*/
+.jumbotron {
+    margin-top: 194px;
+    background-color: #002f4e;
+    min-height: 500px;
+    max-height: 500px;
+}
+
+.backJumboImage {
+    background-image: url(../content/univerbuilding.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jumbotron h1 {
+    color: #ffffff;
+}
+
+.jumbotron p {
+    color: #ffffff;
+}
+
+.jumbotron .container {
+    margin-top: 150px;
+}
+
+.btn-jumbotron {
+    color: #ffffff;
+    background-color: transparent;
+    border-color: #357ebd;
+    border-width: 2px;
+}
+/*
+    Меню слева
+*/
+.backBlue {
+    background-color: #2f4356;
+    min-height: 225px;
+    max-height: 225px;
+}
+
+.backDarkBlue {
+    background-color: #182b3c;
+    min-height: 225px;
+    max-height: 225px;
+}
+
+.backRed {
+    background-color: #cd0c0c;
+    min-height: 50px;
+    max-height: 50px;
+}
+
+.backDarkRed {
+    background-color: #a40606;
+    min-height: 50px;
+    max-height: 50px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+/*
+    Уменьшение навбара
+*/
+@media (min-width: 992px) {
+
+    #mainNav.navbar-shrink {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-top:-70px;
+        margin-bottom:0;
+        background-color: #ffffff;
+      
+    }
+
+        #mainNav.navbar-shrink .navbar-brand {
+            max-width:40px;
+            padding: 12px 0;
+            position:absolute;
+            top:60px;
+            left:-25px;
+        }
+       
+}
+
+/*
+    карточки новостей
+*/
+.news-main {
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.font-news{
+    font-size:1.1em;
+}
+
+.card-img-top{
+    max-height:200px;
+}
+
+/*
+    карточки анонсов и грантов
+*/
+.right-card{
+    margin-left:20px;   
+    margin-top:20px;
+}
+.anounce {
+    background-color: #154a79;
+    color: white;
+}
+.grant {
+    background-color: #53799a;
+    color: white;
+}
+.advertise {
+    background-color: #a40606;
+    color: white;
+}
+.anounce-border {
+    border-color: #154a79;
+}
+.grant-border {
+    border-color: #53799a;
+}
+.advertise-border {
+    border-color: #a40606;
+}
+
+/*
+    стили сайта для слабовидящих
+*/
+.change-size {
+    display: none;
+    color: #000;
+    position: relative;
+    z-index: 9999;
+    font-size: 26px !important;
+}
+
+.special-version {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: url(grayscale.svg#greyscale);
+    filter: gray;
+    -webkit-filter: grayscale(1);
+}
+
+.special-version header nav {
+    position: static;
+    margin-bottom: 0 !important;
+}
+
+.special-version header + .row {
+    margin-top: 0 !important;
+}
+
+.special-version .jumbotron {
+    margin-top: 0;
+}
+
+.special-version .change-size {
+    display: block;
+}
+
+
+.btn-visually,
+.visually-impaired-menu {
+    z-index: 9990;
+    background: #fff;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: 2px solid #000;
+}
+
+.visually-impaired-menu {
+    display: flex;
+    justify-content: space-between;
+    left: 0;
+    right: auto;
+    display: none;
+}
+
+.btn-normal {
+    display: none;
+    font-size: 26px !important;
+}
+
+
+.special-version .visually-impaired-menu {
+    display: block;
+    position: relative;
+}
+
+.special-version .btn-normal {
+    display: block;
+}
+
+.special-version .btn-visually {
+    display: none;
+}
+
+.special-version .news-content,
+.special-version .info {
+    margin-top: 21px !important;
+}
+
+.special-version .news-all {
+    margin-top: 26px !important;
+}
+
+.page-item.active .page-link {
+    color: #fff !important; 
+}
+
+.page-item .page-link {
+    color: #007bff !important;
+}
+
+.privacy,
+.contacts {
+    color: #000;
+}
+
+.vk {
+    margin-right: 20px;
+}
+
+
+.vk svg,
+.telegram svg {
+    width: 40px;
+    height: 40px;
+}
+
+
+.contacts p,
+.contacts-subtitle {
+    font-size: 0.8rem;
+    margin-bottom: 0.3rem;
+}
+
+/*.card-annotation {
+    margin: 0;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -webkit-line-clamp: 10;
+    overflow: hidden;
+}*/
+
+
+
+.card-annotation * {
+    font-size: inherit;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 10;
+}
+
+/*.card-annotation *:nth-child(n+4) {
+    display: none;
+}*/
+
+caption {
+    caption-side: top;
+}
+
+.card-tags {
+    list-style: none;
+    padding: 0;
+}
+
+.card-tag {
+    display: inline-block;
+    margin: 7px 6px;
+    
+}
+
+.card-tag-link {
+    max-width: 260px;
+    position: relative;
+    display: inline-block;
+    border-radius: 3px;
+    padding: 3px 7px;
+    border: 1px solid rgba(0, 122, 197, 0.3);
+    color: rgb(0,122,197);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    box-sizing: border-box;
+    vertical-align: middle;
+    transition: border-color .2s ease 0s;
+    
+}
+
+.card-tag-link:hover {
+    color: #d2270b;
+    border: 1px solid #007ac5;
+}
+
+.foreign ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.submenu {
+    position: relative;
+}
+
+.submenu--active > .dropdown-menu {
+    display: block;
+    top: 31px;
+}

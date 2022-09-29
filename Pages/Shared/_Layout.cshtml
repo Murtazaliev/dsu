@@ -1,0 +1,407 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ДГУ</title>   
+    <style type="text/css">
+    .links a {
+    color:red;
+    display:inline-block;
+    margin:10px;
+    }
+    legend a:hover {
+    background-color:white;
+    color:#53799a!important;
+    }
+    nav a {
+        color: #708ea7 !important;
+    }
+        nav a:hover {
+            color: white !important;
+        }
+
+
+        .dropdown-item:hover ! important {
+        background-color: #383d41;
+        }
+
+</style>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="icon" type="image/x-icon" href="~/favicon.ico">
+
+</head>
+<body>
+    <button class="btn-visually" value="true">
+                <img src="https://finevision.ru/static/banner2.jpg" width="240" height="100">
+            </button>
+       <div class="visually-impaired-menu">
+            <nav class="change-size">
+                Размер шрифта:
+                <button type="button" class="change-size--more">Больше</button>
+                <button type="button" class="change-size--less">Меньше</button>
+                <button type="button" class="change-size--reset">Сброс</button>
+            </nav>
+            <button type="button" class="btn-normal">Обычная версия сайта</button>
+       </div>
+    <header>
+        
+        <nav 
+        class="navbar fixed-top navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow mb-3" 
+        style="background-color:#013968; background-image: url(content/dgu.png); background-repeat: no-repeat; background-position: right; border-bottom: 5px solid #142c59;" 
+        id="mainNav">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 flex-wrap d-flex align-items-center">
+                        <a class="navbar-brand" asp-area="" asp-page="/Index">
+                            <img src="~/content/Logo.png" class="img-thumbnail border-0" style="background:none;" />
+                        </a>                  
+
+                        <a class="btn text-left p-0 font-weight-bold text-white" asp-area="" asp-page="/Index">ДАГЕСТАНСКИЙ <br /> ГОСУДАРСТВЕННЫЙ <br /> УНИВЕРСИТЕТ</a>
+
+                        <div class="foreign">
+                            <ul>
+                                <li>
+                                    <a href="/InfoDetail?infoId=66">
+                                        <img src="~/content/eng.png"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/InfoDetail?infoId=103">
+                                        <img src="~/content/deu.png"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/InfoDetail?infoId=129">
+                                        <img src="~/content/fra.png"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/InfoDetail?infoId=143">
+                                        <img src="~/content/tur.png"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/InfoDetail?infoId=148">
+                                        <img src="~/content/arab.png"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/InfoDetail?infoId=158">
+                                        <img src="~/content/farsi.png"/>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    </div>
+                    <div class="col-6">
+                        <div class="d-sm-inline-flex flex-sm-row-reverse">
+
+                        </div>
+                    </div>
+
+                    <div class="pl-4 pr-4 table-active">
+                        <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                            @if ((bool)@ViewData["isForeign"] == true)
+                            {
+                                <partial name="_MainMenuForeign" />
+                            }
+                            else
+                            {
+                                <partial name="_MainMenuRussian" />
+                            }
+                            @*<partial name="_MainMenuRussian" />*@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    @RenderBody()
+
+<div class="border-top text-muted mt-5" style="background-color:#53799a;">
+        <div class="container">
+            <div class="row mt-3 pt-3 pb-3 links">
+                <a href="http://dgu.ru/sveden/document" class="btn btn-light"><span>Лицензия</span></a>
+                <a href="http://dgu.ru/sveden/document" class="btn btn-light"><span>Свидетельство о государственной аккредитации</span></a>
+                <a href="/sveden/Otchet_o_samoobsledovanii" class="btn btn-light"><span>Самообследование университета</span></a>
+                <a href="http://rcst.dgu.ru/associationdgu" class="btn btn-light"><span>Ассоциация выпускников ДГУ</span></a>
+                <a href="http://portfolio.dgu.ru/" class="btn btn-light"><span>Портфолио студента</span></a>
+                <a href="http://www.isu.dgu.ru/feedback/" class="btn btn-light"><span>Обратная связь</span></a>
+                <a href="http://pog.dgu.ru/" class="btn btn-light"><span>Прием обращений граждан</span></a>
+                <a href="http://ct.dgu.ru/" class="btn btn-light"><span>Центр тестирования граждан зарубежных стран по русскому языку, истории России и основам законодательства РФ</span></a>
+                <a href="/minjust-contact.html" class="btn btn-light"><span>Информация о федеральных государственных гражданских служащих Минюста России, ответственных за рассмотрение обращений граждан и организаций</span></a>
+            </div>
+            <div class="row mt-3 bg-dark pt-3 pb-3">
+                <div class="col-4">
+                    <a style="height:106px; background-color:#fff" href="https://minobrnauki.gov.ru/" class="row img-thumbnail m-2">
+                        <div class="col-4" style="display: flex;align-items: center">
+                            <img src="/Files/img/l1_minobr-znac.png" class="row" width="70" style="margin: 0 auto;">
+                        </div>
+                        <div class="col-8" style="white-space: normal; line-height: 2; font-size: 15px; text-align: end; font-weight: bold;display: flex;align-items: center">
+                            <div>
+                                МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ
+                                <div style="font-size: 13px;">
+                                    РОССИЙСКОЙ ФЕДЕРАЦИИ
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-4">
+                    <a style="height:106px; background-color:#fff" href="http://obrnadzor.gov.ru/" class="row img-thumbnail m-2">
+                        <div class="col-4" style="display: flex;align-items: center">
+                            <img src="/Files/img/l2_obrnadzor-logo.png" class="row" width="70" style="margin: 0 auto;">
+                        </div>
+                        <div class="col-8" style="white-space: normal; line-height: 2; font-size: 15px; text-align: end; font-weight: bold;display: flex;align-items: center">
+                            <div>
+                                РОСОБРНАДЗОР
+                                <div style="font-size: 11px;">
+                                    ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ
+                                    В СФЕРЕ ОБРАЗОВАНИЯ И НАУКИ
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-4">
+                    <a style="height:106px; background-color:#fff" href="https://vak.minobrnauki.gov.ru/main" class="row img-thumbnail m-2">
+                        <div class="col-4" style="display: flex;align-items: center">
+                            <img src="/Files/img/l3_gerb-col.gif" class="row" width="70" style="margin: 0 auto;">
+                        </div>
+                        <div class="col-8" style="white-space: normal; line-height: 2; font-size: 15px; text-align: end; font-weight: bold;display: flex;align-items: center">
+                            <div>
+                                ВАК
+                                <div style="font-size: 11px;">
+                                    (ВЫСШАЯ
+                                    АТТЕСТАЦИОННАЯ КОМИССИЯ)
+                                    при Минобр и науки РФ
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-4">
+                    <a style="height:106px; background-color:#fff" href="http://www.dagminobr.ru/" class="row img-thumbnail m-2">
+                        <div class="col-4" style="display: flex;align-items: center">
+                            <img src="/Files/img/l4_gerb-dag.gif" class="row" width="70" style="margin: 0 auto;">
+                        </div>
+                        <div class="col-8" style="white-space: normal; line-height: 2; font-size: 15px; text-align: end; font-weight: bold;display: flex;align-items: center">
+                            <div>
+                                ДАГМИНОБР
+                                <div style="font-size: 12px;">
+                                    Министерство образования
+                                    и науки РД
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-4">
+                    <a style="height:106px; background-color:#fff" href="http://scienceport.ru/" class="row img-thumbnail m-2">
+                        <div class="col-4" style="display: flex;align-items: center">
+                            <img src="/Files/img/l5_sfedu_top.jpg" class="row" width="70" style="margin: 0 auto;">
+                        </div>
+                        <div class="col-8" style="white-space: normal; line-height: 2; font-size: 15px; text-align: end; font-weight: bold;display: flex;align-items: center">
+                            <div>
+                                НАУКА И ОБРАЗОВАНИЕ
+                                <div style="font-size: 21px;">
+                                    ПРОТИВ ТЕРРОРА
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-4">
+                    <a style="height:106px; background-color:#fff" href="https://ncpti.su/" class="row img-thumbnail m-2">
+                        <div class="col-4" style="display: flex;align-items: center">
+                            <img src="/Files/img/l6_download.png" class="row" width="70" style="margin: 0 auto;">
+                        </div>
+                        <div class="col-8" style="white-space: normal;  line-height: 1.4; font-size: 12px; text-align: end; font-weight: bold;display: flex;align-items: center">
+                            <div>
+                                Национальный центр информационного противодействия терроризму и экстремизму в образовательной среде и сети Интернет
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-2">
+                    <a style="height:130px" href="https://map.ncpti.ru/" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/l7_map_ncpti_banner.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <div style="height:130px" class="row  m-2">
+                        <div style="display: flex;align-items: center;">
+                            <img src="/Files/img/l8_prav-info-dgu.jpg" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="https://www.i-exam.ru/" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/l9_banner_fieb.jpg" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http://gcc.dgu.ru/" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/l10_centr-razvitiya-logo-text.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="https://стопкоронавирус.рф/" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r1_COVID-19-200-2.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http://dgu.ru/news-covid-19.html" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r2_ost-convid-19.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http://dgu.ru/Abitur/" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r3_abitur-2021.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http:/science.dgu.ru/PagesAsper.aspx?id=1" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r4_aspirant-2021.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http://www.science.dgu.ru/Pages.aspx?id=530" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r5_nacproekt-obraz-2021.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http://dgu.ru/natsionalnyye-proyekty-rossii.html" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r6_Nauka_logo_tsvet.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="https://www.minobrnauki.gov.ru/god-nauki/" class="row  m-2">
+                        <div style="display: flex;align-items: center;width:100%;">
+                            <img src="/Files/img/r7_logo-year-nayka.jpg" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http://openedu.dgu.ru/" class="row  m-2">
+                        <div style="display: flex;align-items: center;width:100%;">
+                            <img src="/Files/img/r8_do-POO.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http://distant.dgu.ru/" class="row  m-2">
+                        <div style="display: flex;align-items: center;width:100%;">
+                            <img src="/Files/img/r9_do-SDO.png" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="http://dgu.ru/100-let-dassr.html" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r10_100-let-DASSR.jpg" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-2">
+                    <a style="height:130px" href="https://ncpa.ru/" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r11_Excellent_Quality.jpg" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="https://xn--80aahfebmi6bfqjd0ai9k.xn--p1ai/" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/r12_ban-prez-grant.jpg" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <a style="height:130px" href="https://minobrnauki.gov.ru/press-center/news/?ELEMENT_ID=50667" class="row  m-2">
+                        <div style="display: flex;align-items: center">
+                            <img src="/Files/img/postuplenie_v_vuz.jpg" class="row" style="margin: 0 auto; max-width:100%">
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+</div>
+    <footer class="contacts mt-3">
+        <div class="container">
+            <div class="d-flex justify-content-between">
+                    <h4 class="display-5 text-uppercase float-left">Контакты</h4>
+                    <div class="d-flex">
+                        <a href="https://vk.com/lentadgu" class="vk">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-label="VK" role="img" viewBox="0 0 512 512">
+                                <rect width="512" height="512" rx="15%" fill="#5281b8"/><path fill="#fff" d="M274 363c5-1 14-3 14-15 0 0-1-30 13-34s32 29 51 42c14 9 25 8 25 8l51-1s26-2 14-23c-1-2-9-15-39-42-31-30-26-25 11-76 23-31 33-50 30-57-4-7-20-6-20-6h-57c-6 0-9 1-12 6 0 0-9 25-21 45-25 43-35 45-40 42-9-5-7-24-7-37 0-45 7-61-13-65-13-2-59-4-73 3-7 4-11 11-8 12 3 0 12 1 17 7 8 13 9 75-2 81-15 11-53-62-62-86-2-6-5-7-12-9H79c-6 0-15 1-11 13 27 56 83 193 184 192z"/>
+                            </svg>
+                        </a>
+                        <a href="https://t.me/lentadgu1" class="telegram">
+                            <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+		                            <g>
+				                            <path d="M128,0 C57.307,0 0,57.307 0,128 L0,128 C0,198.693 57.307,256 128,256 L128,256 C198.693,256 256,198.693 256,128 L256,128 C256,57.307 198.693,0 128,0 L128,0 Z" fill="#40B3E0"></path>
+				                            <path d="M190.2826,73.6308 L167.4206,188.8978 C167.4206,188.8978 164.2236,196.8918 155.4306,193.0548 L102.6726,152.6068 L83.4886,143.3348 L51.1946,132.4628 C51.1946,132.4628 46.2386,130.7048 45.7586,126.8678 C45.2796,123.0308 51.3546,120.9528 51.3546,120.9528 L179.7306,70.5928 C179.7306,70.5928 190.2826,65.9568 190.2826,73.6308" fill="#FFFFFF"></path>
+				                            <path d="M98.6178,187.6035 C98.6178,187.6035 97.0778,187.4595 95.1588,181.3835 C93.2408,175.3085 83.4888,143.3345 83.4888,143.3345 L161.0258,94.0945 C161.0258,94.0945 165.5028,91.3765 165.3428,94.0945 C165.3428,94.0945 166.1418,94.5735 163.7438,96.8115 C161.3458,99.0505 102.8328,151.6475 102.8328,151.6475" fill="#D2E5F1"></path>
+				                            <path d="M122.9015,168.1154 L102.0335,187.1414 C102.0335,187.1414 100.4025,188.3794 98.6175,187.6034 L102.6135,152.2624" fill="#B5CFE4"></path>
+		                            </g>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="d-flex col-6">
+                    <div class="mr-4">
+                        <h4 class="contacts-subtitle">ПОЧТОВЫЙ АДРЕС:</h4>
+                        <p>367000, Россия, Республика Дагестан, Махачкала, ул. Магомеда Гаджиева, д. 43-а (ректорат ДГУ).</p>
+                        <p>Телефон: 8 (8722) 68-23-26</p>
+                        <p>Факс: 8 (8722) 68-23-26.</p>
+                        <p>E-mail: <a href="mailto:dgu@dgu.ru">dgu@dgu.ru</a></p>
+                    </div>
+                    <div class="col-6">
+                        <h4 class="contacts-subtitle">ПРЕСС-СЛУЖБА ДГУ:</h4>
+                        <p>Руководитель – Рашидова Элина Нуруллаховна</p>
+                        <p>E-mail: <a href="mailto:dgu-press@mail.ru">dgu-press@mail.ru</a></p>
+                    </div>
+                </div>
+                <span class="privacy">© ДГУ</span> <a href="/Privacy"></a>
+        </div>        
+    </footer>
+
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

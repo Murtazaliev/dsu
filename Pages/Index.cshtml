@@ -1,0 +1,168 @@
+﻿@page
+@model DguSite.Pages.IndexModel
+@{
+    ViewData["Title"] = "Главная";
+    ViewData["isForeign"] = false;
+}
+
+        
+        <div class="row" style="margin-top:14px;">
+
+            <div class="col-md-8 px-0" id="slider">                  
+
+            </div>
+            <div class="col-md-4 px-0">
+                <div class="jumbotron p-0 mr-4">
+                    <div class="row">
+                        <div class="col-6 p-3 backBlue">
+                            <a href="http://www.dgu.ru/sveden" class="btn text-light text-left">Сведения об <br /> образовательной <br /> организации</a> <br />
+                            <a href="http://www.dgu.ru/sveden/struct" class="btn text-light text-left">Структура</a><br />
+                            <a href="http://science.dgu.ru/" class="btn text-light text-left">Наука и инновации</a><br />
+                        </div>
+                        <div class="col-6 p-3 backDarkBlue">
+                            <a href="http://edu.dgu.ru/login/index.php" class="btn text-light text-left">Дистанционное образование</a><br />
+                            <a href="https://www.isu.dgu.ru" class="btn text-light text-left">Деканат</a><br />
+                            <a href="http://ed.dgu.ru/timetable.aspx?id=1" class="btn text-light text-left">Расписание</a><br />
+                            <a href="http://rate.dgu.ru/" class="btn text-light text-left">Рейтинг</a><br />
+                            <a href="http://anketa.dgu.ru/" class="btn text-light text-left">Анкетирование</a><br />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6 p-3 backDarkBlue">
+                            <a href="http://ios.dgu.ru/" class="btn text-light text-left">Электронный <br /> университет</a><br />
+                            <a href="http://pog.dgu.ru/" class="btn text-light text-left">Прием обращений <br /> граждан</a><br />
+                            <a href="https://www.isu.icc.dgu.ru/feedback" class="btn text-light text-left">Обратная связь</a><br />
+                        </div>
+                        <div class="col-6 p-3 backBlue">
+                            <a href="http://ndoc.dgu.ru/PDFF/Gak_ot_24_04_2019.pdf" class="btn text-light text-left">Аккредитация</a><br />
+                            <a href="http://www.dgu.ru/sveden/Otchet_o_samoobsledovanii" class="btn text-light text-left">Самообследование</a><br />
+                            <a href="http://dgu.ru/sveden/intern_sotr" class="btn text-light text-left">Международные программы</a><br />
+                            <a href="#" class="btn text-light text-left">Ассоциация выпускников ДГУ</a><br />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6 px-0 backRed d-flex align-items-center justify-content-center">
+                            <a href="http://www.dgu.ru/Abitur/" class="btn text-light text-left font-weight-bold">Прием @DateTime.Now.Year.ToString()</a><br />
+                        </div>
+                        <div class="col-6 px-0 backDarkRed d-flex align-items-center justify-content-center">
+                            <a href="http://science.dgu.ru/PagesAsper.aspx?id=1" class="btn text-light text-left font-weight-bold">Аспирантура</a><br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<div class="container p-0">
+    <main role="main" class="pb-2">
+        <div class="row">
+            <div class="col-9">
+                <div class="text-center" id="MainNews">
+                    @*Раздел новостей сайта*@
+                </div>
+                <div class="row mt-3">
+                        <div class="text-center">
+                            <div class="row">
+                            <h4 class="display-5 text-uppercase float-left">Новости факультетов</h4>
+</div>
+
+                            <div class="row mt-3">
+                                @*@foreach (var item in Model.FacultyNews)
+                                {
+                                <a href="@(item.url + "news.aspx")" target="_blank" class="btn col-md-4">
+                                        <div class="card" style="height:200px">
+                                            <div class="card-header">
+                                                @item.faculty
+                                            </div>
+                                            <div class="card-body text-left">
+                                                <p class="card-text news-main"><small class="text-muted">@item.dateAdd.ToString("dd.MM.yyyy")</small></p>
+
+                                                <h5 class="card-title font-news text-darkblue">@item.title</h5>
+
+
+                                            </div>
+                                        </div>
+
+                                   
+                                </a>
+                                }*@<div class="container">
+                                    @foreach (var item in Model.Faculty)
+                                    {
+                                        <a href="@(item.url == "http://iit.dgu.ru/" ? item.url : item.url + "news.aspx")" target="_blank" style="float:left;">
+                                        <h6 class="card-title mb-1">
+                                            @item.title
+                                            </h6>    
+                                        </a> <br />
+                                    }
+                                    </div>
+                                @*@foreach (var item in Model.Faculty)
+                                {
+                                <a href="@(item.url + "news.aspx")" target="_blank" class="btn col-md-4">
+                                        <div class="card" style="height:200px">
+                                            <div class="card-header">
+                                                @item.title
+                                            </div>                                          
+                                        </div>                 
+                                </a>
+                                }*@
+                            </div>
+                           
+
+                        </div>
+                        </div>
+      
+            </div>
+            <div class="col-3" id="MainAds">
+
+            </div>
+        </div>
+    </main>
+</div>
+
+
+@section Scripts
+{
+<script>
+    $(document).ready(function () {
+        GetSlider();
+        GetMainNews();
+        GetMainADS();
+        var slider = document.querySelector('#slider')
+        var carousel = new bootstrap.Carousel(slider, { 
+          interval: 4000
+        })
+    });
+    function GetMainNews() {
+        $.ajax({
+            type: "GET",
+            url: "/Index?handler=MainMews",
+            success: function (response) {
+                var dvItems = $("#MainNews");
+                dvItems.html(response);
+            },
+        })
+    }
+
+    function GetSlider() {
+        $.ajax({
+            type: "GET",
+            url: "/Index?handler=Slider",
+            success: function (response) {
+                var dvItems = $("#slider");
+                dvItems.html(response);
+            },
+        })
+    }
+
+    function GetMainADS() {
+        $.ajax({
+            type: "GET",
+            url: "/Index?handler=MainADS",
+            success: function (response) {
+                var dvItems = $("#MainAds");
+                dvItems.html(response);
+            },
+        })
+    }
+</script>
+
+}

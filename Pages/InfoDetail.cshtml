@@ -1,0 +1,47 @@
+﻿@page
+@model DguSite.Pages.InfoDetailModel
+@{
+    ViewData["isForeign"] = Model.isForeign;
+}
+    <div class="container">
+        <div class="row info" style="margin:225px 25px 0 25px; ">
+            <div class="col-7" style="max-height:360px; display:table;    background-image: linear-gradient(to right, rgb(217 217 217 / 0%), rgb(22 71 108));">
+                <h1 class="text-uppercase" style="display: table-cell; vertical-align: middle;">@Html.Raw(Model.DataInfoDetail?.Title)</h1>
+            </div>
+        </div>
+
+<div class="col-12 mt-2">
+        @Html.Raw(Model.DataInfoDetail?.Text)
+        @*@if (Model.FamiliarNews != null)
+        {
+            <div class="mt-3">
+                <h3 class="text-uppercase" style="display: table-cell; vertical-align: middle;">Похожие новости</h3>
+                <div>
+                    @foreach (var item in Model.FamiliarNews)
+                    {
+                        <div class="col-4">
+                            <img src="@item.Avatar" class="card-img-top" alt="...">
+                            <div class="card-body text-left news-main">
+                                <p class="card-text news-main"><small class="text-muted">@item.DateAdd</small></p>
+                                <a href="/InfoDetail?infoId=@item.Id">
+                                    <h5 class="card-title font-news text-darkblue text-uppercase">@item.Title</h5>
+                                    <div class="card-annotation font-news">@Html.Raw(@item.Annotation)</div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="card-body text-left news-main">
+                                <a href="/InfoDetail?infoId=@item.Id">
+                                    <h5 class="card-title font-news text-darkblue text-uppercase">@item.Title</h5>
+                                    <div class="card-annotation font-news">@Html.Raw(@item.Text)</div>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        }*@
+    </div>
+
+   </div>
+    </div>

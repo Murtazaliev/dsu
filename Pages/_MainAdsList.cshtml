@@ -1,0 +1,30 @@
+﻿@model IEnumerable<DguDomain.SprNewsType>
+
+
+    @foreach (var item in Model)
+    {
+        if (item.DataNews.Any())
+        {
+        <div class="row right-card">
+            
+                <h4 class="display-5 text-uppercase">@item.Name</h4>
+            
+            @foreach (var subItem in item.DataNews)
+            {
+            <div class="card grant-border col-12 mb-2">
+                <div class="card-header grant row">
+                    @subItem.DateAdd.ToString("dd.MM.yyyy")
+                </div>
+                <div class="card-body text-primary text-left">
+                    <a href="/NewsDetail?newsId=@subItem.Id">
+                        <h5 class="card-title">
+                            @subItem.Title
+                        </h5>
+                    </a>
+                </div>
+            </div>
+            }
+        </div>
+        }
+        <a class="btn btn-light" href="~/AllNews?pageNumber=1&nt=@item.Id" style="width:100%; margin-left:20px;">все @item.Name.ToLower().Replace("нонс","нонсы")</a>
+    }

@@ -1,0 +1,336 @@
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguSite.exe
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\arab.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\deu.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\dgu.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\eng.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\farsi.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\fra.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\icon.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\Logo.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\Logo2.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\lue.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\News\1.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\News\2.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\News\3.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\News\4.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\News\5.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\News\6.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\slider_image6.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\tur.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\univer.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\content\univerbuilding.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\siteBlind.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\documents.html
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l10_centr-razvitiya-logo-text.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l1_minobr-znac.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l2_obrnadzor-logo.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l3_gerb-col.gif
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l4_gerb-dag.gif
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l5_sfedu_top.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l6_download.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l7_map_ncpti_banner.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l8_prav-info-dgu.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\l9_banner_fieb.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\minobr-znac.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\postuplenie_v_vuz.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r10_100-let-DASSR.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r11_Excellent_Quality.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r12_ban-prez-grant.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r1_COVID-19-200-2.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r2_ost-convid-19.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r3_abitur-2021.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r4_aspirant-2021.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r5_nacproekt-obraz-2021.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r6_Nauka_logo_tsvet.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r7_logo-year-nayka.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r8_do-POO.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Files\img\r9_do-SDO.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\site.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\LICENSE
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\carousel\popper.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\news\4fa508a6-ca43-41e3-8057-5f194fdabe3e.png
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\0.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\1.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\2.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\3.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\4.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\5.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\6.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\7.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\bulet-na-zvan.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\buleten.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Cost of annual traning  in 2012-2013 academic year on 1 course.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\pdf.gif
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\plan-korup-2022.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Prikaz_dgu1.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Reglament prisvoeniya uchenich zvaniy.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Spisok pyblikaciy na doljnost 2021.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\today.jpg
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\word.gif
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\А.Г. Караваев - Молодёжь и антитеррор.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\А.Г. Штейнбух - Интернет и антитеррор.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Борьба государственных СМИ с идеологией экстремизма и терроризма.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\В.В. Попов - Методические рекомендации по противодействию терроризму в субъектах РФ.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\ВЗАИМООТНОШЕНИЯ мусульман и светского общества.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Д.В.КОЛЕСОВ, С.В.МАКСИМОВ, Я.В.СОКОЛОВ - Остановим терроризм.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Д.В.КОЛЕСОВ, С.В.МАКСИМОВ, Я.В.СОКОЛОВ - Что такое терроризм.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Дистанционная зачетная работа в формате КЕГЭ _ Итоговый зачет _ INFO-1 Содержание _ Niko онлайн школа.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Дорошенко памятка.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Дорошенко руководство.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Женщина в исламе.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Заблуждение о Халифате.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\заблуждение одного течения.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Инструкция по действию персонала.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Инструкция по противодействию терроризму и экстремизму.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Исламо-христианский диалог в досоветский и советский период.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Исламо-христианский диалог в России в новейший период.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\История подвига. Открытый дневник 2.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\История подвига. Открытый дневник.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Книга - Ислам в современном мире.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Комиссия по примирению и согласию.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Материалы международной богословской конференции конференции Российские Мусульмане права и обязанности.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\материалы молодежных форумов с обсуждением проблем религиозно-политического экстремизма.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Международная богословская конференция итоговая декларация на арабском.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Международная богословская конференция итоговая декларация на русском.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Метод рекомендации_СМИ.doc
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации  для педработников иностранные студенты.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации  по реализации мер.doc
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации для педагогов.doc
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации для СТИ по ТБ и АТЗ.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации Минкомсвязь РД.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации Организация деятельности в сети интернет.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации по инфосопровождению мероприятий КП 2019-2023 вузы.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации по инфосопровождению мероприятий КП 2019-2023 субъекты РФ.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации по киберволонтерам.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации по проведению онлайн фестивалей.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации по проведению социсследования.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации по профилактике и противодействию экстремизму в молодежной среде.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации по совершенствованию работы.doc
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации по формированию отчетности по КП.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методические рекомендации.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методическое пособие о профилактике насилия в ЭС при АТК в РД.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Методическое пособие по ИБО.docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\ОСНОВЫ МЕЖРЕЛИГИОЗНОГО ДИАЛОГА В ИСЛАМЕ.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\ОТНОШЕНИЕ МУСУЛЬМАН к миру и войне.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\ПАМЯТКА (РЕКОМЕНДАЦИИ) по организации профилактической работы в сети Интернет.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Памятка по реагированию на информацию, причиняющую вред здоровью и развитию детей, распространяемую в сети интернет.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Патриотизм в исламе.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Правильное понимание джихада.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\программа краткосрочного курса повышения квалификации. Профилактика (предупреждение) терроризма и экстремизма в молодежной среде.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Профилактика идеологии терроризма в образовательных учреждениях(1).pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Профилактика идеологии терроризма в образовательных учреждениях.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Психологические рекомендации при условиях опасных ситуациях .pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Психологическое сопровождение адаптации личности в поликультурном обществе как технология профилактики деструктивных форм поведения .pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\РАСПРОСТРАНЕНИЕ ВАХХАБИЗМА В РОССИИ.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Роль коммуникаций в управлении поведением .pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Роль СМИ в противодействии идеологии терроризма.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Сборник материалов. Том 1.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Сборник материалов. Том 2.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Сборник Межконфессиональные образовательные чтения.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\СВЕДЕНИЯ О КАНДИДАТАХ В ЧЛЕНЫ ДИССЕРТАЦИОННОГО СОВЕТА.doc
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\СВЕДЕНИЯ ОБ ОРГАНИЗАЦИИ.doc
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Социологические исследования по вопросам противодействия терроризму.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Стенограмма круглого стола с участием делегации ВСМУ..docx
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Схемы взаимоотношений региональных властей с мусульманскими структурами.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploads\Ф.А. Хайдаров - Ислам традиционный и вымышленный.pdf
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\libman.json
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguSite.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguSite.deps.json
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguSite.runtimeconfig.json
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguSite.pdb
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\FluentFTP.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\NuGet.Frameworks.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Collections.Immutable.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.ComponentModel.Annotations.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Convention.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Hosting.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Runtime.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.TypedParts.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.Caching.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguDomain.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguDomain.pdb
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguSite.Views.dll
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\DguSite.Views.pdb
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\css\site.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\favicon.ico
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\js\site.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\bootstrap\LICENSE\LICENSE
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery-validation\dist\additional-methods.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery-validation\LICENSE.md
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery\dist\jquery.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery\dist\jquery.min.js
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery\dist\jquery.min.map
+C:\Users\User\Documents\Проекты\DguAdmin (2)\dsu.ru\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Identity\lib\jquery\LICENSE.txt

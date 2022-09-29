@@ -1,0 +1,29 @@
+﻿.navbar {
+    background-color: #fff !important;
+    background-image: none !important;
+}
+.nav-link,
+.text-white,
+.text-light,
+a {
+    color: #000 !important;
+    transition: none;
+}
+
+.nav-link:hover,
+.text-white:hover,
+a.text-light:hover {
+    background-color: #000;
+    color: #fff !important;
+}
+.col-6 {
+    background-color: #fff;
+}
+
+.table-active, .table-active > td, .table-active > th {
+    background-color: #fff;
+}
+
+.btn-light {
+    border-color: 
+}

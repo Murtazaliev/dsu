@@ -1,0 +1,59 @@
+﻿@page
+@model DguSite.Pages.AllNewsModel
+@{
+    ViewData["isForeign"] = false;
+}
+<div class="container news-all" style="margin-top:225px;">
+   <h1>@(Model.SearchTag == null ? "Новости" : $"Новости по теме: {Model.SearchTag}")</h1>
+   <table class="table">
+        @foreach (var item in Model.News.ToList())
+        {  
+           <tr>
+                   <td>
+                       <div class="row p-2">
+                           <div class="col-3">
+                               <img src="@item.Avatar" class="card-img-top" alt="...">
+                           </div>
+                           <div class="col-9">
+                               <div class="card-body text-left news-main">
+                                   <p class="card-text news-main"><small class="text-muted">@item.DateAdd</small></p>
+                                   <a href="/NewsDetail?newsId=@item.Id">
+                                       <h5 class="card-title font-news text-darkblue text-uppercase">@item.Title</h5>                                    
+                                   </a>
+                                   <div class="card-annotation card-annotation--all-news font-news">@Html.Raw(@item.Annotation)</div>
+                                   <ul class="card-tags">
+                                        @foreach (var tag in item.Tags)
+                                        {
+                                            <li class="card-tag">
+                                                <a href="~/AllNews?pageNumber=1&nt=1&tag=@tag.Name" class="card-tag-link">
+                                                    @tag.Name
+                                                </a>
+                                            </li>
+                                        }
+                                    </ul>
+                               </div>
+                           </div>
+                       </div>
+                   </td>
+               </tr>
+        }
+   </table>
+   <nav aria-label="...">
+    <ul class="pagination">
+            @for (var x = 0; x < Model.CountPages-1; x++)
+            {
+                int pageNumber = x + 1;
+                if (pageNumber == Model.CurrentPage)
+                {
+                            <li class="page-item active"><a class="page-link" href="~/AllNews?pageNumber=@pageNumber&nt=@Model.NType">@pageNumber</a></li>
+                }
+                else
+                {
+                            <li class="page-item"><a class="page-link" href="~/AllNews?pageNumber=@pageNumber&nt=@Model.NType">@pageNumber</a></li>
+                }
+            }
+  </ul>
+</nav>
+</div>
+
+

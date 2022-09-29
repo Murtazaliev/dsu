@@ -1,0 +1,30 @@
+﻿@model List<DguSite.Models.UINews>
+<div class="row">
+<h4 class="display-5 text-uppercase float-left">Новости</h4>
+</div>
+<div class="row p2">
+    @foreach (var item in Model)
+    { 
+    <div class="col-4">
+        <img src="@item.Avatar" class="card-img-top" alt="...">
+        <div class="card-body text-left news-main">
+            <p class="card-text news-main"><small class="text-muted">@item.DateAdd</small></p>
+            <a href="/NewsDetail?newsId=@item.Id">
+                <h5 class="card-title font-news text-darkblue text-uppercase">@item.Title</h5>               
+            </a>
+            <div class="card-annotation font-news">@Html.Raw(@item.Annotation)</div>
+            <ul class="card-tags">
+                @foreach (var tag in item.Tags)
+                {
+                    <li class="card-tag">
+                        <a href="~/AllNews?pageNumber=1&nt=1&tag=@tag.Name" class="card-tag-link">
+                            @tag.Name
+                        </a>
+                    </li>
+                }                                   
+            </ul>
+        </div>
+    </div>
+    }
+</div>
+<a class="btn btn-light" href="~/AllNews?pageNumber=1&nt=1" style="width:100%;">все новости</a>

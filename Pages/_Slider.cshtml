@@ -1,0 +1,40 @@
+﻿@model List<DguSite.Models.UINews>
+@{
+    int slideIndex = 0;
+}
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators " style="margin-bottom: 2rem;">
+        @foreach (var item in Model)
+            { 
+                <li data-target="#carouselExampleIndicators" data-slide-to="@(slideIndex++)" class="@(item.Id == Model.First().Id  ? "active":"")"></li> 
+            }
+    </ol>
+    <div class="carousel-inner">
+              @foreach (var item in Model)
+              { 
+              <div class="carousel-item @(item.Id == Model.First().Id  ? "active":"")"> 
+                   <div class="jumbotron " style="background-image: url(@item.Avatar); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+                <div class="carousel-caption d-none d-md-block mb-1 text-left" style="background-color: rgba(0,0,0,0.3);  width:100%; right: 15px;
+    bottom: 28px;
+    left: -15px;
+    padding-left: 60px;">
+                 <p>Главные новости</p>
+              <strong>@item.Title</strong>
+              <br>
+              <a href="/NewsDetail?newsId=@item.Id" class="btn btn-outline-light">
+                  Подробнее
+                </a>
+              </div>
+              </div>
+              }
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+     </div>
+ </div>
